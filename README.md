@@ -1,8 +1,8 @@
-# 📊 Previsão de Estoque Inteligente na AWS com [SageMaker Canvas](https://aws.amazon.com/pt/sagemaker/canvas/)
+# Previsão de Estoque Inteligente na AWS com [SageMaker Canvas](https://aws.amazon.com/pt/sagemaker/canvas/)
 
 Bem-vindo
 
-## 🚀 Passo a Passo
+## Passo a Passo
 
 ### 1. Selecionar Dataset
 
